@@ -27,7 +27,7 @@ Se incluyen los siguientes diagramas, en el archivo resources, en el directorio 
 - Diagrama de Secuencias
 - Diagrama de flujo
 
-### Configuración de la Base de Datos
+## Configuración de la Base de Datos
 
 1. Crear una base de datos llamada `alquilervehiculos` en MySQL:
 
