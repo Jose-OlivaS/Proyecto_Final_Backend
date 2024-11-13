@@ -21,6 +21,12 @@ Este proyecto implementa un sistema de gestión de alquiler de vehículos que pe
 - Maven
 - MySQL Server
 
+## Diagramas
+Se incluyen los siguientes diagramas, en el archivo resources, en el directorio diagramas
+- Diagrama de Clases
+- Diagrama de Secuencias
+- Diagrama de flujo
+
 ### Configuración de la Base de Datos
 
 1. Crear una base de datos llamada `alquilervehiculos` en MySQL:
